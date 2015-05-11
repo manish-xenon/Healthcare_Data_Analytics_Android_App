@@ -150,6 +150,8 @@ public class GraphActivity extends ActionBarActivity {
                 createQuarterWiseGraph();
             }
 
+        } else if (id == R.id.save_image) {
+            chart.saveToGallery("medical_chart-" + new Long(System.currentTimeMillis()).intValue() + ".jpg", 85);
         }
         return super.onOptionsItemSelected(item);
     }

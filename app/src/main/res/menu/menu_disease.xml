@@ -6,6 +6,8 @@
         android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/arma" android:title="ARMA"
         android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/save_image" android:title="Save Graph Image"
+        android:orderInCategory="100" app:showAsAction="never" />
 </menu>
 
 <!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
