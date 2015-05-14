@@ -20,7 +20,7 @@ import medical.ARMA;
 import medical.GraphData;
 
 /**
- * Created by manshu on 5/11/15.
+ * Created by manish on 5/11/15.
  */
 public class GraphActivity extends ActionBarActivity {
 

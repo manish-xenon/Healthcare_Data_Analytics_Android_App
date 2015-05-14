@@ -17,7 +17,7 @@ import java.util.*;
 import java.util.List;
 
 /**
- * Created by manshu on 5/9/15.
+ * Created by manish on 5/9/15.
  */
 
 public class ARMA {

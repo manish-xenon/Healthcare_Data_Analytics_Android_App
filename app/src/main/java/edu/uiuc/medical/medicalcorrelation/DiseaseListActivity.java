@@ -24,7 +24,7 @@ import java.util.concurrent.ExecutionException;
 import medical.ARMA;
 
 /**
- * Created by manshu on 5/11/15.
+ * Created by manish on 5/11/15.
  */
 public class DiseaseListActivity extends Activity implements ListView.OnItemClickListener {
 

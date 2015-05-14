@@ -5,7 +5,7 @@ import com.github.mikephil.charting.data.Entry;
 import java.util.List;
 
 /**
- * Created by manshu on 5/11/15.
+ * Created by manish on 5/11/15.
  */
 public class GraphData {
 

@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 /**
- * Created by manshu on 5/11/15.
+ * Created by manish on 5/11/15.
  */
 public class SplashActivity extends Activity {
     // Splash screen timer
